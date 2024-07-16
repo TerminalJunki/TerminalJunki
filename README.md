@@ -4,6 +4,7 @@
 - term_junkie on discord
 - he/him
 - website coming soon
+- ~laziest developer on earth~
 
 <!---
 TerminalJunki/TerminalJunki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
